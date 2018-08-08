@@ -1,5 +1,13 @@
+@font-face {
+
+    font-family: Mainfonts;
+    src: url("fonts/Product Sans Bold.ttf");
+}
+
+
 body {
 }
+
 .dotted-bg[data-v-5c0dad5d] {
     position: fixed;
     top: 0;
@@ -25,7 +33,7 @@ body {
 /* testing */
 
 h1 {
-	font-family: Avenir;
+	font-family: Mainfonts;
     font-size: 8em;
     color: #647F86;
     text-align: center;
@@ -39,3 +47,4 @@ p {
     color: #9eb5bd;
     text-align: center;
 }
+
